@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Victor Emanoel 👋
 
-<!--
-**VictorEmanoel-SQl/VictorEmanoel-SQl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em Backend e Banco de Dados  
+📚 Estudando desenvolvimento de sistemas e arquitetura backend  
+🗄️ Apaixonado por modelagem de dados, SQL e organização de sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- JavaScript
+- Java
+- MySQL
+- HTML
+- CSS
+- SQL
+- Spring Boot
+- Git & GitHub
+
+---
+
+## 📌 Sobre mim
+
+Gosto de desenvolver sistemas organizados, principalmente envolvendo banco de dados, APIs e backend.
+
+Atualmente estudo:
+- Modelagem de banco de dados
+- Integração frontend + backend
+- APIs REST
+- SQL avançado
+- Estruturação de sistemas
+
+Também desenvolvo projetos pessoais para praticar desenvolvimento web e gerenciamento de dados.
+
+---
+
+## 🛠️ Projetos
+
+📍 Sistema de cadastro e gerenciamento de idosos/cuidadores  
+📍 Integração de formulários com MySQL  
+📍 Projetos backend com Java e Spring Boot  
+📍 Ferramentas e sistemas em JavaScript  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/victor-emnl
+- Email: emnl.victor@gmail.com
+
+---
+
+⭐ Sempre buscando aprender mais sobre backend, banco de dados e desenvolvimento de software.
