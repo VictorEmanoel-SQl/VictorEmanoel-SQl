@@ -8,14 +8,9 @@
 
 ## 🚀 Tecnologias
 
-- JavaScript
-- Java
-- MySQL
-- HTML
-- CSS
-- SQL
-- Spring Boot
-- Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java,js" />
+</p>
 
 ---
 
@@ -31,15 +26,6 @@ Atualmente estudo:
 - Estruturação de sistemas
 
 Também desenvolvo projetos pessoais para praticar desenvolvimento web e gerenciamento de dados.
-
----
-
-## 🛠️ Projetos
-
-📍 Sistema de cadastro e gerenciamento de idosos/cuidadores  
-📍 Integração de formulários com MySQL  
-📍 Projetos backend com Java e Spring Boot  
-📍 Ferramentas e sistemas em JavaScript  
 
 ---
 
